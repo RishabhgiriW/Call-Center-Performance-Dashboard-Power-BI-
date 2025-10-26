@@ -2,7 +2,7 @@
 
 ### Project Objective
 
-To analyze the- performance and efficiency of a customer support team by evaluating ticket volume, resolution speed, SLA compliance, and customer satisfaction. The goal is to identify operational bottlenecks and trends affecting the customer experience.
+To analyze the performance and efficiency of a customer support team by evaluating ticket volume, resolution speed, SLA compliance, and customer satisfaction. The goal is to identify operational bottlenecks and trends affecting the customer experience.
 
 ---
 
@@ -22,7 +22,7 @@ This page drills down into agent-specific performance and correlates different m
 
 ### Data Source
 
-The dataset for this project is an Excel file ([`01 Call-Center-Dataset.xlsx`](01%20Call-Center-Dataset.xlsx)) containing customer support ticket information, originally sourced from Kaggle.
+The dataset for this project is a Microsoft Excel file (`01 Call-Center-Dataset.xlsx`), originally sourced from Kaggle.
 
 ---
 
