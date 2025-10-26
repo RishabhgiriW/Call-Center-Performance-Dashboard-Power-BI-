@@ -11,12 +11,12 @@ To analyze the performance and efficiency of a customer support team by evaluati
 #### Page 1: Trends
 This page gives a high-level overview of the key performance indicators (KPIs) and general trends.
 
-![Trends Dashboard](Trends_dashboard)
+![Trends Dashboard](Call%20centre%20data%20analysis/Trends_dashboard.png)
 
 #### Page 2: Diagnostic Analysis
 This page drills down into agent-specific performance and correlates different metrics to find insights.
 
-![Diagnostic Analysis Dashboard](Diagnostic_questions)
+![Diagnostic Analysis Dashboard](Call%20centre%20data%20analysis/Diagnostic_questions.png)
 
 ---
 
